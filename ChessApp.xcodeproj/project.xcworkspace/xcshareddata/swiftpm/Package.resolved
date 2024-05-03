@@ -1,0 +1,15 @@
+{
+  "originHash" : "16309ad4c20e2a4f7bbd6d34fffba2d3279aa061ee11777e1a699745e2a2c00c",
+  "pins" : [
+    {
+      "identity" : "kzfilewatchers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzysztofzablocki/KZFileWatchers.git",
+      "state" : {
+        "revision" : "d27a9557427d261adccdf4b566acc9d9c0fec6f4",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
